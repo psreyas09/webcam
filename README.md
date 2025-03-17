@@ -29,3 +29,11 @@ Press ESC or q to close the window.
 color_identifier.py → Main script for detecting colors
 colors.csv → List of color names with RGB values
 README.md → Documentation
+
+Contributing
+
+Feel free to fork this repository, make improvements, and submit pull requests.
+
+License
+
+This project is licensed under the MIT License.
